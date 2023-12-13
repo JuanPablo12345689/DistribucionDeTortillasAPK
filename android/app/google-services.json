@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009795519936",
+    "project_id": "esperanza-t",
+    "storage_bucket": "esperanza-t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009795519936:android:ea07655f1cb70cdb2a2425",
+        "android_client_info": {
+          "package_name": "com.example.la_esperanza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnTB_fDAyou_gmc91HqBa9z-NTQKZVcVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
